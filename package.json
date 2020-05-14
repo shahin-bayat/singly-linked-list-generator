@@ -1,0 +1,27 @@
+{
+  "name": "singly-linked-list",
+  "version": "1.0.0",
+  "description": "a typescript class used to generate singly linked lists data structures.",
+  "main": "/dist/app.js",
+  "scripts": {
+    "build": "./node_modules/.bin/tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahin-bayat/singly-linked-list-generator.git"
+  },
+  "keywords": [
+    "typescript",
+    "linked_list",
+    "javascript"
+  ],
+  "author": "@BayatShahin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahin-bayat/singly-linked-list-generator/issues"
+  },
+  "homepage": "https://github.com/shahin-bayat/singly-linked-list-generator#readme",
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  }
+}
